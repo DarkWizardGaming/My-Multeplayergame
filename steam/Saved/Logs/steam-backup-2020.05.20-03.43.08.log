@@ -1,0 +1,1494 @@
+﻿Log file open, 05/19/20 19:38:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: steam
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.174692
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.46
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=DarkWizardgame -epicuserid=acb460f62f8147feb479a38cf59dacad -epiclocale=en
+LogInit: Base Directory: D:/Program Files (x86)/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.19-23.38.56:000][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.19-23.38.56:000][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Engine.ini]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Engine.ini]
+[2020.05.19-23.38.56:001][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Engine.ini]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Engine.ini]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.19-23.38.56:001][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Engine.ini]
+[2020.05.19-23.38.56:001][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Engine.ini]
+[2020.05.19-23.38.56:005][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.19-23.38.56:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.19-23.38.56:006][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.19-23.38.56:006][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.19-23.38.56:006][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.19-23.38.56:008][  0]LogHAL: Display: Platform has ~ 32 GB [34289659904 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.19-23.38.56:008][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.19-23.38.56:008][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.19-23.38.56:008][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.19-23.38.56:009][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/matth/Documents/Unreal Projects/steam/Saved/Config/Windows/Engine.ini]
+[2020.05.19-23.38.56:009][  0]LogInit: Computer: DESKTOP-LHKM7AT
+[2020.05.19-23.38.56:009][  0]LogInit: User: matth
+[2020.05.19-23.38.56:009][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.19-23.38.56:009][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.19-23.38.56:010][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.05.19-23.38.56:010][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.19-23.38.56:010][  0]LogMemory: Process Physical Memory: 105.69 MB used, 105.69 MB peak
+[2020.05.19-23.38.56:010][  0]LogMemory: Process Virtual Memory: 101.55 MB used, 101.55 MB peak
+[2020.05.19-23.38.56:010][  0]LogMemory: Physical Memory: 8763.18 MB used,  23937.99 MB free, 32701.17 MB total
+[2020.05.19-23.38.56:010][  0]LogMemory: Virtual Memory: 5160.79 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.05.19-23.38.56:011][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.19-23.38.56:023][  0]LogInit: Using OS detected language (en-US).
+[2020.05.19-23.38.56:023][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.19-23.38.56:024][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.19-23.38.56:151][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.19-23.38.56:182][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.19-23.38.56:182][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.19-23.38.56:269][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.19-23.38.56:270][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.19-23.38.56:270][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.19-23.38.56:270][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.19-23.38.56:323][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.05.19-23.38.56:323][  0]LogD3D11RHI:       8088/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.19-23.38.56:324][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.19-23.38.56:324][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.19-23.38.56:324][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.19-23.38.56:332][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.19-23.38.56:332][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.19-23.38.56:332][  0]LogWindows: EnumDisplayDevices:
+[2020.05.19-23.38.56:332][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.05.19-23.38.56:332][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.05.19-23.38.56:332][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.19-23.38.56:332][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.19-23.38.56:332][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.19-23.38.56:332][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.05.19-23.38.56:332][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.19-23.38.56:332][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.19-23.38.56:332][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.05.19-23.38.56:366][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.19-23.38.56:366][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.19-23.38.56:389][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.19-23.38.56:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.19-23.38.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.19-23.38.56:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.19-23.38.56:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.19-23.38.56:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.19-23.38.56:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.19-23.38.56:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.19-23.38.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.19-23.38.56:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.19-23.38.56:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.19-23.38.56:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.19-23.38.56:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.19-23.38.56:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.19-23.38.56:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.19-23.38.56:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.19-23.38.56:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.19-23.38.56:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.19-23.38.56:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.19-23.38.56:778][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.19-23.38.56:780][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.19-23.38.56:793][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../Users/matth/Documents/Unreal Projects/steam/Intermediate/Shaders/WorkingDirectory/13540/).
+[2020.05.19-23.38.56:793][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/matth/AppData/Local/Temp/UnrealShaderWorkingDir/6649BB3E4D585722797DBE88E5FC1BDE/'.
+[2020.05.19-23.38.56:793][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.19-23.38.56:793][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.19-23.38.56:793][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.19-23.38.57:348][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.19-23.38.57:393][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/matth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.19-23.38.57:394][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/matth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.19-23.38.57:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/matth/Documents/Unreal Projects/steam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.19-23.38.57:394][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.19-23.38.57:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/matth/Documents/Unreal Projects/steam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.19-23.38.57:394][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.19-23.38.57:402][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.19-23.38.57:402][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.19-23.38.57:402][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.19-23.38.57:403][  0]LogDerivedDataCache: Using Local data cache path C:/Users/matth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.19-23.38.57:403][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.19-23.38.57:403][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.19-23.38.57:423][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.19-23.38.57:425][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.19-23.38.57:425][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.19-23.38.57:462][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2020.05.19-23.38.57:674][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.19-23.38.57:788][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.19-23.38.57:788][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.19-23.38.57:788][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.19-23.38.57:788][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.19-23.38.57:788][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.19-23.38.57:799][  0]LogNetVersion: steam 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2521894447)
+[2020.05.19-23.38.58:543][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.029698 seconds
+[2020.05.19-23.38.58:549][  0]LogUObjectArray: 46759 objects as part of root set at end of initial load.
+[2020.05.19-23.38.58:549][  0]LogUObjectAllocator: 8148360 out of 0 bytes used by permanent object pool.
+[2020.05.19-23.38.58:549][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.19-23.38.58:836][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.19-23.38.58:838][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.19-23.38.58:879][  0]SourceControl: Source control is disabled
+[2020.05.19-23.38.58:879][  0]SourceControl: Source control is disabled
+[2020.05.19-23.38.58:880][  0]SourceControl: Source control is disabled
+[2020.05.19-23.38.58:880][  0]SourceControl: Source control is disabled
+[2020.05.19-23.38.58:881][  0]SourceControl: Source control is disabled
+[2020.05.19-23.38.58:934][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.19-23.38.58:941][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.19-23.38.58:941][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.19-23.38.59:003][  0]LogOcInput: OculusInput pre-init called
+[2020.05.19-23.38.59:008][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.19-23.38.59:008][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.19-23.38.59:058][  0]LogEngine: Initializing Engine...
+[2020.05.19-23.38.59:058][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.19-23.38.59:059][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.19-23.38.59:318][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.19-23.38.59:322][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.19-23.38.59:338][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.19-23.38.59:338][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.19-23.38.59:338][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.19-23.38.59:338][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.19-23.38.59:338][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.19-23.38.59:338][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.19-23.38.59:338][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.19-23.38.59:338][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.19-23.38.59:338][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.19-23.38.59:338][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.19-23.38.59:367][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.19-23.38.59:367][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.19-23.38.59:367][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.19-23.38.59:367][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.19-23.38.59:367][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.19-23.38.59:367][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.19-23.38.59:367][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.19-23.38.59:367][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.19-23.38.59:367][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.19-23.38.59:387][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.19-23.38.59:390][  0]LogInit: FAudioDevice initialized.
+[2020.05.19-23.38.59:390][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.19-23.38.59:457][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/matth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.19-23.38.59:460][  0]LogInit: Texture streaming: Enabled
+[2020.05.19-23.38.59:466][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.19-23.38.59:466][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.19-23.38.59:467][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.19-23.38.59:502][  0]LogInit: Transaction tracking system initialized
+[2020.05.19-23.38.59:510][  0]BlueprintLog: New page: Editor Load
+[2020.05.19-23.38.59:531][  0]LocalizationService: Localization service is disabled
+[2020.05.19-23.38.59:711][  0]LogFileCache: Scanning file cache for directory 'D:/Users/matth/Documents/Unreal Projects/steam/Content/' took 0.00s
+[2020.05.19-23.38.59:711][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.19-23.38.59:712][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.19-23.39.00:176][  0]SourceControl: Source control is disabled
+[2020.05.19-23.39.00:177][  0]Cmd: MAP LOAD FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.19-23.39.00:177][  0]LightingResults: New page: Lighting Build
+[2020.05.19-23.39.00:177][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-23.39.00:177][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-23.39.00:177][  0]MapCheck: New page: Map Check
+[2020.05.19-23.39.00:177][  0]LightingResults: New page: Lighting Build
+[2020.05.19-23.39.00:202][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.05.19-23.39.00:394][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.19-23.39.00:399][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.19-23.39.00:426][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.05.19-23.39.00:426][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.19-23.39.00:426][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2020.05.19-23.39.00:426][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.250
+[2020.05.19-23.39.00:549][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-23.39.00:554][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-23.39.00:559][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-23.39.00:564][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-23.39.00:567][  0]LogCollectionManager: Loaded 0 collections in 0.000561 seconds
+[2020.05.19-23.39.00:576][  0]LogFileCache: Scanning file cache for directory 'D:/Users/matth/Documents/Unreal Projects/steam/Saved/Collections/' took 0.00s
+[2020.05.19-23.39.00:576][  0]LogFileCache: Scanning file cache for directory 'D:/Users/matth/Documents/Unreal Projects/steam/Content/Developers/matth/Collections/' took 0.00s
+[2020.05.19-23.39.00:576][  0]LogFileCache: Scanning file cache for directory 'D:/Users/matth/Documents/Unreal Projects/steam/Content/Collections/' took 0.00s
+[2020.05.19-23.39.00:576][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 3041 classes and 727 folders.
+[2020.05.19-23.39.00:578][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.19-23.39.00:604][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.19-23.39.00:607][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.05.19-23.39.00:681][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.19-23.39.00:681][  0]LogLoad: (Engine Initialization) Total time: 5.45 seconds
+[2020.05.19-23.39.00:681][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.19-23.39.00:713][  0]LogAssetRegistry: Asset discovery search completed in 3.2518 seconds
+[2020.05.19-23.39.00:716][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.05.19-23.39.00:716][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.19-23.39.00:722][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.19-23.39.00:723][  0]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.19-23.39.00:726][  0]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.19-23.39.00:727][  0]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.19-23.39.00:812][  0]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2020.05.19-23.39.03:366][263]LogRenderer: Reallocating scene render targets to support 1288x620 Format 10 NumSamples 1 (Frame:265).
+[2020.05.19-23.39.06:004][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.19-23.40.47:908][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.05.19-23.40.47:909][609]LogMetaData: Removing '/Game/Ui/MainMenuWB.SKEL_MainMenuWB_C' ref from Metadata '/Game/Ui/MainMenu.PackageMetaData'
+[2020.05.19-23.40.47:909][609]LogMetaData: Removing '/Game/Ui/MainMenuWB.MainMenuWB_C' ref from Metadata '/Game/Ui/MainMenu.PackageMetaData'
+[2020.05.19-23.40.47:909][609]LogMetaData: Removing '/Game/Ui/MainMenuWB.MainMenuWB:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Ui/MainMenu.PackageMetaData'
+[2020.05.19-23.40.47:909][609]LogMetaData: Removing '/Game/Ui/MainMenuWB.MainMenuWB:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Ui/MainMenu.PackageMetaData'
+[2020.05.19-23.40.47:909][609]LogMetaData: Removing '/Game/Ui/MainMenuWB.MainMenuWB:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Ui/MainMenu.PackageMetaData'
+[2020.05.19-23.40.47:932][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/MainMenuWB" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset" SILENT=true
+[2020.05.19-23.40.47:939][609]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenuWB4FD5AFD840E321F5ABA3CB83C168D23E.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset'
+[2020.05.19-23.40.48:055][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.05.19-23.40.48:087][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.05.19-23.40.48:110][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.05.19-23.40.48:143][609]AssetCheck: New page: Asset Save: MainMenuWB
+[2020.05.19-23.40.48:143][609]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/MainMenuWB.MainMenuWB
+[2020.05.19-23.41.11:654][689]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2020.05.19-23.41.11:676][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.05.19-23.41.14:292][689]LogSlate: Window 'Save Content' being destroyed
+[2020.05.19-23.41.14:299][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.19-23.41.14:323][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.05.19-23.41.14:328][689]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenu2DBE5B444BCD5876021463A5E5CAFC0A.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Maps/MainMenu.umap'
+[2020.05.19-23.41.14:329][689]LogFileHelpers: Saving map 'MainMenu' took 0.031
+[2020.05.19-23.41.14:330][689]Cmd: MAP LOAD FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.19-23.41.14:330][689]LightingResults: New page: Lighting Build
+[2020.05.19-23.41.14:330][689]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.05.19-23.41.14:331][689]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-23.41.14:331][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-23.41.14:331][689]MapCheck: New page: Map Check
+[2020.05.19-23.41.14:331][689]LightingResults: New page: Lighting Build
+[2020.05.19-23.41.14:356][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.05.19-23.41.14:397][689]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.19-23.41.14:397][689]LogAIModule: Creating AISystem for world MainMenu
+[2020.05.19-23.41.14:422][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.05.19-23.41.14:439][689]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.19-23.41.14:439][689]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2020.05.19-23.41.14:439][689]LogFileHelpers: Loading map 'MainMenu' took 0.110
+[2020.05.19-23.41.14:466][689]AssetCheck: New page: Asset Save: MainMenu
+[2020.05.19-23.41.14:466][689]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2020.05.19-23.41.32:484][673]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.19-23.41.32:488][673]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.19-23.42.10:568][201]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Ui/MainMenuWB.MainMenuWB
+[2020.05.19-23.42.10:715][201]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.05.19-23.42.11:558][201]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.19-23.42.14:912][585]LogSlate: Window 'MainMenuWB' being destroyed
+[2020.05.19-23.43.11:042][397]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\matth\Downloads\UnrealMainMenu.png)
+[2020.05.19-23.43.11:046][397]LogTexture: Display: Building textures: UnrealMainMenu (BGRA8, 284X177)
+[2020.05.19-23.46.06:361][611]LogSlate: Took 0.018676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.19-23.46.48:710][423]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.19-23.48.19:874][454]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.19-23.49.31:984][323]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.19-23.50.32:886][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.05.19-23.50.34:205][625]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.19-23.50.36:228][814]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\matth\Downloads\urmainmenu.png)
+[2020.05.19-23.50.36:236][814]LogTexture: Display: Building textures: urmainmenu (AutoDXT, 960X540)
+[2020.05.19-23.50.45:055][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.05.19-23.50.46:717][656]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.19-23.50.46:803][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.05.19-23.52.26:960][617]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.19-23.52.45:395][410]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.19-23.55.31:828][469]BlueprintLog: New page: Compile MainMenuWB
+[2020.05.19-23.55.31:869][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.05.19-23.57.29:408][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.05.19-23.57.29:409][554]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.033
+[2020.05.19-23.57.29:410][554]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ui/MainMenuWB] ([1] browsable assets)...
+[2020.05.19-23.57.29:410][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ui/MainMenuWB]
+[2020.05.19-23.57.29:410][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/MainMenuWB" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/MainMenuWB_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.19-23.57.29:427][554]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenuWB_Auto1799083324C2119489483D28F67888062.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/MainMenuWB_Auto1.uasset'
+[2020.05.19-23.57.29:428][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ui/Textures/urmainmenu] ([1] browsable assets)...
+[2020.05.19-23.57.29:432][554]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Ui/Textures/urmainmenu.urmainmenu]
+[2020.05.19-23.57.29:432][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ui/Textures/urmainmenu]
+[2020.05.19-23.57.29:440][554]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/urmainmenu_Auto197543D76463B3F9D6FA259A99FE24DDD.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/Textures/urmainmenu_Auto1.uasset'
+[2020.05.19-23.57.29:441][554]LogFileHelpers: Auto-saving content packages took 0.031
+[2020.05.19-23.57.51:985][411]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.19-23.58.34:117][720]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.19-23.58.44:293][448]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.19-23.59.09:963][234]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.19-23.59.55:792][976]LogEditorTransaction: Undo Add Widget
+[2020.05.20-00.04.37:394][ 40]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.20-00.07.19:556][310]BlueprintLog: New page: Compile MainMenuWB
+[2020.05.20-00.07.19:595][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.05.20-00.08.31:459][791]BlueprintLog: New page: Compile MainMenuWB
+[2020.05.20-00.08.31:499][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.05.20-00.09.00:372][529]BlueprintLog: New page: Compile MainMenuWB
+[2020.05.20-00.09.00:407][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.05.20-00.09.18:433][241]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.05.20-00.10.01:467][647]BlueprintLog: New page: Compile MainMenu
+[2020.05.20-00.10.01:508][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.05.20-00.10.04:537][995]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-00.10.04:582][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.05.20-00.10.07:641][995]LogSlate: Window 'Save Content' being destroyed
+[2020.05.20-00.10.07:661][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.20-00.10.07:697][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.05.20-00.10.07:874][995]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenu45FC17F0482A16D667AAF69B7E48A219.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Maps/MainMenu.umap'
+[2020.05.20-00.10.07:895][995]LogFileHelpers: Saving map 'MainMenu' took 0.233
+[2020.05.20-00.10.07:895][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/MainMenuWB" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset" SILENT=true
+[2020.05.20-00.10.07:913][995]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenuWBE06124EE41526ED5C042DBB349CEEFD4.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset'
+[2020.05.20-00.10.07:917][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/Textures/urmainmenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/Textures/urmainmenu.uasset" SILENT=true
+[2020.05.20-00.10.07:947][995]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/urmainmenu5A4CDE89429534496BB907B8D3B00FE1.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/Textures/urmainmenu.uasset'
+[2020.05.20-00.10.07:987][996]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.20-00.10.07:987][996]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2020.05.20-00.10.07:987][996]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/MainMenuWB.MainMenuWB
+[2020.05.20-00.10.07:987][996]LogContentValidation: Display: Validating Texture2D /Game/Ui/Textures/urmainmenu.urmainmenu
+[2020.05.20-00.10.42:020][240]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-00.10.42:062][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.05.20-00.11.24:967][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.20-00.12.00:167][943]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-00.12.00:217][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.20-00.13.34:890][731]BlueprintLog: New page: Compile MainMenuWB
+[2020.05.20-00.13.34:934][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.05.20-00.13.36:314][886]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-00.13.36:360][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.05.20-00.13.38:299][886]LogSlate: Window 'Save Content' being destroyed
+[2020.05.20-00.13.38:322][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/MainMenuWB" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset" SILENT=true
+[2020.05.20-00.13.38:337][886]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenuWB091FC2AC48A42E4893927DB92F671D28.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset'
+[2020.05.20-00.13.38:369][887]AssetCheck: New page: Asset Save: MainMenuWB
+[2020.05.20-00.13.38:369][887]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/MainMenuWB.MainMenuWB
+[2020.05.20-00.13.51:461][427]BlueprintLog: New page: Compile MainMenuWB
+[2020.05.20-00.13.51:503][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.05.20-00.13.52:032][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/MainMenuWB" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset" SILENT=true
+[2020.05.20-00.13.52:047][483]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenuWB0539D1BD45197733C45546B18409FC28.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset'
+[2020.05.20-00.13.52:058][483]AssetCheck: New page: Asset Save: MainMenuWB
+[2020.05.20-00.13.52:058][483]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/MainMenuWB.MainMenuWB
+[2020.05.20-00.13.52:688][549]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-00.13.52:734][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.05.20-00.14.01:919][918]BlueprintLog: New page: Compile MainMenuWB
+[2020.05.20-00.14.01:961][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.05.20-00.14.02:344][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/MainMenuWB" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset" SILENT=true
+[2020.05.20-00.14.02:360][957]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenuWBDA547BBF44B1DD077CB9959F3A20C0B1.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset'
+[2020.05.20-00.14.02:372][957]AssetCheck: New page: Asset Save: MainMenuWB
+[2020.05.20-00.14.02:373][957]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/MainMenuWB.MainMenuWB
+[2020.05.20-00.14.03:329][ 63]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-00.14.03:373][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.05.20-00.14.12:845][474]BlueprintLog: New page: Compile MainMenuWB
+[2020.05.20-00.14.12:887][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.05.20-00.14.13:300][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/MainMenuWB" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset" SILENT=true
+[2020.05.20-00.14.13:315][518]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenuWB9534116A49CE34CBBA5C63B42B408D4C.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset'
+[2020.05.20-00.14.13:326][518]AssetCheck: New page: Asset Save: MainMenuWB
+[2020.05.20-00.14.13:326][518]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/MainMenuWB.MainMenuWB
+[2020.05.20-00.14.14:147][607]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-00.14.14:191][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.05.20-00.14.28:428][861]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-00.14.28:470][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.20-00.15.36:288][373]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.20-00.15.54:251][660]LogSlate: Window 'Create New Blueprint' being destroyed
+[2020.05.20-00.15.54:300][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MyGameInstance.MyGameInstance
+[2020.05.20-00.15.56:361][876]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.20-00.15.56:365][876]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.20-00.16.22:510][754]BlueprintLog: New page: Compile MyGameInstance
+[2020.05.20-00.16.22:550][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.05.20-00.16.29:581][587]LogSlate: Took 0.005106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.20-00.18.07:880][952]BlueprintLog: New page: Compile MyGameInstance
+[2020.05.20-00.18.07:922][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.05.20-00.23.43:079][708]BlueprintLog: New page: Compile MyGameInstance
+[2020.05.20-00.23.43:081][708]LogClass: Warning: Type mismatch in ServerSlots of MyGameInstance_C - Previous (StrProperty) Current(IntProperty) for package:  FObjectReader
+[2020.05.20-00.23.43:118][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.05.20-00.23.43:562][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGameInstance" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Blueprints/MyGameInstance.uasset" SILENT=true
+[2020.05.20-00.23.43:576][753]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MyGameInstanceE0A0689E429FE85979146C83831BA25B.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Blueprints/MyGameInstance.uasset'
+[2020.05.20-00.23.43:591][753]AssetCheck: New page: Asset Save: MyGameInstance
+[2020.05.20-00.23.43:591][753]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MyGameInstance.MyGameInstance
+[2020.05.20-00.24.10:951][983]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-00.24.35:235][214]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-00.24.35:439][214]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.05.20-00.25.05:066][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.05.20-00.25.05:067][ 34]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.038
+[2020.05.20-00.25.05:067][ 34]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ui/ServerMenu] ([1] browsable assets)...
+[2020.05.20-00.25.05:067][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ui/ServerMenu]
+[2020.05.20-00.25.05:067][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.05.20-00.25.05:075][ 34]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu_Auto2495ED086491A916F5E68C8A6B7A249D7.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto2.uasset'
+[2020.05.20-00.25.05:075][ 34]LogFileHelpers: Auto-saving content packages took 0.009
+[2020.05.20-00.25.56:858][839]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\matth\Downloads\servermenu.png)
+[2020.05.20-00.25.56:877][839]LogTexture: Display: Building textures: servermenu (AutoDXT, 1920X1080)
+[2020.05.20-00.26.33:839][598]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.20-00.26.36:178][869]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-00.26.36:216][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.05.20-00.26.36:658][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-00.26.36:666][913]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu441E8C2148C239E84225539E58FAD763.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-00.26.36:677][913]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-00.26.36:677][913]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-00.26.52:053][375]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-00.26.52:053][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-00.26.52:812][460]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-00.26.52:812][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-00.27.33:490][234]LogEditorTransaction: Undo Paste clipboard contents
+[2020.05.20-00.29.40:969][409]LogEditorTransaction: Undo Move Widget
+[2020.05.20-00.29.42:137][495]LogEditorTransaction: Undo Remove Widget
+[2020.05.20-00.29.42:463][528]LogEditorTransaction: Undo Remove Widget
+[2020.05.20-00.29.43:003][589]LogEditorTransaction: Undo Paste clipboard contents
+[2020.05.20-00.29.43:462][636]LogEditorTransaction: Undo Add Widget
+[2020.05.20-00.29.43:957][689]LogEditorTransaction: Undo Remove Widget
+[2020.05.20-00.29.44:397][739]LogEditorTransaction: Undo Remove Widget
+[2020.05.20-00.31.04:483][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-00.31.04:500][477]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu30B1CB3A494426A6762B06B7E6337B8C.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-00.31.04:511][477]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-00.31.04:512][477]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-00.32.50:515][192]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.20-00.33.09:856][425]LogEditorTransaction: Undo Add Widget
+[2020.05.20-00.34.46:089][141]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.20-00.34.55:080][613]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.20-00.42.03:850][100]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.20-00.45.57:229][ 28]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.20-00.48.23:103][715]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-00.48.23:161][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.05.20-00.48.23:728][761]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-00.48.23:772][761]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.05.20-00.48.24:189][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-00.48.24:210][789]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenuF62E5CC044A998FC3CAD74B9E7C037EC.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-00.48.24:220][789]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-00.48.24:220][789]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-00.48.49:142][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.05.20-00.48.49:143][100]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.035
+[2020.05.20-00.48.49:143][100]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ui/Textures/servermenu] ([1] browsable assets)...
+[2020.05.20-00.48.49:146][100]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Ui/Textures/servermenu.servermenu]
+[2020.05.20-00.48.49:146][100]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ui/Textures/servermenu]
+[2020.05.20-00.48.49:155][100]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/servermenu_Auto3CA890CCB4C0D495943F2DAA2DB90597C.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/Textures/servermenu_Auto3.uasset'
+[2020.05.20-00.48.49:155][100]LogFileHelpers: Auto-saving content packages took 0.012
+[2020.05.20-00.52.49:371][419]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.20-00.53.10:310][723]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.20-00.53.20:026][879]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-00.53.20:073][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.05.20-00.53.20:455][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-00.53.20:472][914]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu1C51A5204042DF1705A4288D049DB973.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-00.53.20:483][914]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-00.53.20:483][914]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-00.53.29:484][536]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-00.53.29:527][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.05.20-00.53.30:061][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-00.53.30:082][587]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu406D3D004AE05B982E64E783BE084478.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-00.53.30:095][587]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-00.53.30:095][587]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-00.55.48:376][783]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-00.55.48:424][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.05.20-00.55.48:913][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-00.55.48:930][830]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenuA18550464E28C9DCA10309B4212D4642.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-00.55.48:941][830]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-00.55.48:941][830]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-01.00.25:382][463]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-01.00.25:429][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.05.20-01.00.26:196][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-01.00.26:217][541]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu87C2C1F44805A521AEBFFFB1DD46FC6C.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-01.00.26:229][541]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-01.00.26:229][541]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-01.11.00:649][889]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-01.11.00:706][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.05.20-01.11.03:031][889]LogSlate: Window 'Save Content' being destroyed
+[2020.05.20-01.11.03:046][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-01.11.03:070][889]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu78D0592142DC79C0577624BDF071147E.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-01.11.03:074][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/Textures/servermenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/Textures/servermenu.uasset" SILENT=true
+[2020.05.20-01.11.03:154][889]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/servermenu765133454179353D899538865266B6F6.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/Textures/servermenu.uasset'
+[2020.05.20-01.11.03:194][890]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.20-01.11.03:194][890]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-01.11.03:194][890]LogContentValidation: Display: Validating Texture2D /Game/Ui/Textures/servermenu.servermenu
+[2020.05.20-01.19.28:082][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.05.20-01.19.28:084][606]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.040
+[2020.05.20-01.19.28:085][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ui/ServerMenu] ([1] browsable assets)...
+[2020.05.20-01.19.28:085][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ui/ServerMenu]
+[2020.05.20-01.19.28:085][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.05.20-01.19.28:106][606]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu_Auto467A1C74E472F7FADDDFC00A40F60C12C.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto4.uasset'
+[2020.05.20-01.19.28:106][606]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.05.20-01.29.28:360][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.05.20-01.29.28:362][526]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.034
+[2020.05.20-01.29.28:363][526]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ui/ServerMenu] ([1] browsable assets)...
+[2020.05.20-01.29.28:363][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ui/ServerMenu]
+[2020.05.20-01.29.28:363][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.05.20-01.29.28:387][526]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu_Auto5AF9428E646F3F58ACF9BF2B18EE002E8.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto5.uasset'
+[2020.05.20-01.29.28:387][526]LogFileHelpers: Auto-saving content packages took 0.025
+[2020.05.20-01.44.53:269][739]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-01.44.53:313][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.05.20-01.44.58:383][739]LogSlate: Window 'Save Content' being destroyed
+[2020.05.20-01.44.58:403][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-01.44.58:428][739]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenuEB50053E41F5D25EA7CCDF934651CD81.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-01.44.58:472][740]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-01.44.58:472][740]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-01.46.30:352][245]LogEditorTransaction: Undo Move Widget
+[2020.05.20-01.48.10:566][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.05.20-01.48.10:568][163]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.036
+[2020.05.20-01.48.10:568][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ui/MainMenuWB] ([1] browsable assets)...
+[2020.05.20-01.48.10:568][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ui/MainMenuWB]
+[2020.05.20-01.48.10:568][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/MainMenuWB" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/MainMenuWB_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.05.20-01.48.10:586][163]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenuWB_Auto6101C528C46DD084D283624BCA410219D.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/MainMenuWB_Auto6.uasset'
+[2020.05.20-01.48.10:587][163]LogFileHelpers: Auto-saving content packages took 0.020
+[2020.05.20-02.06.06:638][663]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-02.06.06:683][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.05.20-02.06.08:494][663]LogSlate: Window 'Save Content' being destroyed
+[2020.05.20-02.06.08:521][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/MainMenuWB" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset" SILENT=true
+[2020.05.20-02.06.08:540][663]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenuWBA8BE34AD403C2B95DE63D98DF4972027.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset'
+[2020.05.20-02.06.08:570][664]AssetCheck: New page: Asset Save: MainMenuWB
+[2020.05.20-02.06.08:570][664]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/MainMenuWB.MainMenuWB
+[2020.05.20-02.07.17:977][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.05.20-02.07.17:978][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.035
+[2020.05.20-02.07.17:978][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ui/MainMenuWB] ([1] browsable assets)...
+[2020.05.20-02.07.17:978][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ui/MainMenuWB]
+[2020.05.20-02.07.17:978][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/MainMenuWB" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/MainMenuWB_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.05.20-02.07.17:993][602]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenuWB_Auto7937B46304B1034C257BC12A8950A1A1C.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/MainMenuWB_Auto7.uasset'
+[2020.05.20-02.07.17:993][602]LogFileHelpers: Auto-saving content packages took 0.015
+[2020.05.20-02.09.15:859][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-02.09.15:884][927]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu465F15CA484A7468B4A2E4A93A2A7D98.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-02.09.15:900][927]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-02.09.15:900][927]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-02.10.12:873][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-02.10.12:892][409]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu704D9C944301FD1CE3E7B08EBB2753FD.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-02.10.12:904][409]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-02.10.12:904][409]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-02.10.14:148][556]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-02.10.14:195][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.05.20-02.10.15:092][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-02.10.15:110][650]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu961E751942E65C2CA1CA4989A09FA707.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-02.10.15:121][650]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-02.10.15:121][650]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-02.10.55:859][649]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-02.10.55:906][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.05.20-02.10.56:727][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-02.10.56:748][736]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu5E18FC344649F1D2235508AD95FEB529.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-02.10.56:763][736]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-02.10.56:763][736]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-02.12.00:734][311]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.20-02.12.22:928][ 73]BlueprintLog: New page: Compile MainMenuWB
+[2020.05.20-02.12.22:972][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.05.20-02.12.23:550][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/MainMenuWB" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset" SILENT=true
+[2020.05.20-02.12.23:571][129]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/MainMenuWB83FE0EC64C4E4749518412BFD66C371A.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/MainMenuWB.uasset'
+[2020.05.20-02.12.23:585][129]AssetCheck: New page: Asset Save: MainMenuWB
+[2020.05.20-02.12.23:585][129]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/MainMenuWB.MainMenuWB
+[2020.05.20-02.12.25:797][237]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-02.12.25:840][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.05.20-02.14.02:248][545]LogEditorTransaction: Undo Paste clipboard contents
+[2020.05.20-02.14.10:688][450]LogEditorTransaction: Undo Move Widget
+[2020.05.20-02.17.18:104][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.05.20-02.17.18:105][769]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.042
+[2020.05.20-02.17.18:106][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ui/ServerMenu] ([1] browsable assets)...
+[2020.05.20-02.17.18:106][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ui/ServerMenu]
+[2020.05.20-02.17.18:106][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2020.05.20-02.17.18:130][769]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu_Auto88EA5B70141483D18E39FF9AC37FE3511.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto8.uasset'
+[2020.05.20-02.17.18:130][769]LogFileHelpers: Auto-saving content packages took 0.024
+[2020.05.20-02.24.14:925][916]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.20-02.24.25:772][904]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-02.24.25:822][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.05.20-02.24.27:806][123]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-02.24.27:853][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.05.20-02.24.29:267][123]LogSlate: Window 'Save Content' being destroyed
+[2020.05.20-02.24.29:293][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-02.24.29:322][123]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu5D69084C46A656CC13A3B0BAFD8C1AA5.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-02.24.29:351][124]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-02.24.29:351][124]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-02.25.02:494][505]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-02.25.02:545][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.05.20-02.25.02:989][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-02.25.03:011][544]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenuBFDABBEA4193FC3CBF93EFAFD0D59449.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-02.25.03:024][544]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-02.25.03:024][544]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-02.25.04:493][711]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-02.25.04:541][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.05.20-02.37.57:339][818]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-02.37.57:402][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.05.20-02.37.57:888][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-02.37.57:920][866]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenuFBEF11DE40DA1E02C58482927D02FAB3.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-02.37.57:932][866]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-02.37.57:932][866]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-03.13.41:086][798]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-03.13.41:150][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.05.20-03.13.41:908][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-03.13.41:945][881]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenuBA83F0D941BC18EA7E5BA2B0AD5F80E0.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-03.13.41:960][881]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-03.13.41:960][881]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-03.14.59:786][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.05.20-03.14.59:787][116]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.040
+[2020.05.20-03.14.59:788][116]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ui/ServerMenu] ([1] browsable assets)...
+[2020.05.20-03.14.59:788][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ui/ServerMenu]
+[2020.05.20-03.14.59:788][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2020.05.20-03.14.59:818][116]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu_Auto976706BD146941F1CE38BCFB0B1CABCA5.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto9.uasset'
+[2020.05.20-03.14.59:819][116]LogFileHelpers: Auto-saving content packages took 0.032
+[2020.05.20-03.16.36:604][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-03.16.36:638][239]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu92DE0C3149DB67F8CA2255A56DA02B29.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-03.16.36:655][239]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-03.16.36:655][239]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-03.16.38:235][306]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-03.16.38:294][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.05.20-03.21.35:002][657]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-03.21.35:066][657]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.05.20-03.21.35:689][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-03.21.35:730][720]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu5A3621DB4D8ACE8271C73BBEB7805F4B.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-03.21.35:745][720]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-03.21.35:745][720]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-03.25.11:118][155]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-03.25.11:187][155]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.05.20-03.25.11:654][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-03.25.11:694][201]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu3A4076CB4B3B671C1D349789B51FE164.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-03.25.11:707][201]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-03.25.11:707][201]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-03.25.13:451][400]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-03.25.13:502][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.05.20-03.27.41:411][935]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-03.27.41:483][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.05.20-03.27.41:914][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-03.27.41:958][973]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu531E72DD4CE271107B7FE5B69D314418.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-03.27.41:971][973]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-03.27.41:971][973]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-03.27.59:061][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-03.27.59:100][323]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenuC3D0EBCF4C00B545E554748F883D175C.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-03.27.59:116][323]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-03.27.59:116][323]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-03.28.02:685][660]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-03.28.02:732][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.05.20-03.30.52:928][ 34]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-03.30.52:999][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.05.20-03.30.53:491][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-03.30.53:524][ 84]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu844EB41F4D25E2B4069680996D3EBDEA.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-03.30.53:535][ 84]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-03.30.53:535][ 84]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-03.33.01:861][279]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.05.20-03.33.01:862][279]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.043
+[2020.05.20-03.33.01:862][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ui/ServerMenu] ([1] browsable assets)...
+[2020.05.20-03.33.01:862][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ui/ServerMenu]
+[2020.05.20-03.33.01:862][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2020.05.20-03.33.01:898][279]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu_Auto07824A34247FF18B16CA928A8B373D50F.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/Autosaves/Game/Ui/ServerMenu_Auto0.uasset'
+[2020.05.20-03.33.01:898][279]LogFileHelpers: Auto-saving content packages took 0.036
+[2020.05.20-03.35.59:813][264]LogEditorTransaction: Undo Paste clipboard contents
+[2020.05.20-03.38.29:920][532]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-03.38.29:987][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.05.20-03.38.30:408][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-03.38.30:449][571]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenuF3E04B0840DAB5F75DC876B93A593881.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-03.38.30:466][571]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-03.38.30:467][571]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-03.40.00:814][183]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-03.40.00:883][183]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.05.20-03.40.01:334][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-03.40.01:374][222]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu05F4273445803001AF28F58E59D77310.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-03.40.01:391][222]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-03.40.01:391][222]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-03.40.03:341][446]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-03.40.03:389][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.05.20-03.41.20:514][ 88]BlueprintLog: New page: Compile ServerMenu
+[2020.05.20-03.41.20:581][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.05.20-03.41.21:085][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ui/ServerMenu" FILE="../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset" SILENT=true
+[2020.05.20-03.41.21:126][138]LogSavePackage: Moving '../../../../../Users/matth/Documents/Unreal Projects/steam/Saved/ServerMenu063E12D14083F6C0F8ECA7A533559B8B.tmp' to '../../../../../Users/matth/Documents/Unreal Projects/steam/Content/Ui/ServerMenu.uasset'
+[2020.05.20-03.41.21:140][138]AssetCheck: New page: Asset Save: ServerMenu
+[2020.05.20-03.41.21:140][138]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ui/ServerMenu.ServerMenu
+[2020.05.20-03.41.22:816][335]LogTemp: Repeating last play command: Standalone Game
+[2020.05.20-03.41.22:863][335]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.05.20-03.42.11:499][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.20-03.42.11:499][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.20-03.42.11:500][183]PIE: New page: PIE session: MainMenu (May 19, 2020, 7:42:11 PM)
+[2020.05.20-03.42.11:502][183]LogOnline: OSS: Creating online subsystem instance for: Steam
+[2020.05.20-03.42.11:502][183]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.05.20-03.42.11:502][183]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.20-03.42.11:503][183]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.20-03.42.11:503][183]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2020.05.20-03.42.11:505][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001646s)
+[2020.05.20-03.42.11:506][183]LogAIModule: Creating AISystem for world MainMenu
+[2020.05.20-03.42.11:506][183]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2020.05.20-03.42.11:506][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003142s)
+[2020.05.20-03.42.11:544][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.05.20-03.42.11:545][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.20-03.42.11:545][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.20-03.42.11:545][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.20-03.42.11:545][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.20-03.42.11:545][183]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.20-03.42.11:545][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.20-03.42.11:545][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.20-03.42.11:545][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.20-03.42.11:545][183]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.20-03.42.11:545][183]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.20-03.42.11:571][183]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.20-03.42.11:571][183]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.20-03.42.11:571][183]LogAudioMixer: Display: Is Default: Yes
+[2020.05.20-03.42.11:571][183]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.20-03.42.11:571][183]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.20-03.42.11:571][183]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.20-03.42.11:571][183]LogAudioMixer: Display: Channel Order:
+[2020.05.20-03.42.11:571][183]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.20-03.42.11:571][183]LogAudioMixer: Display: 1: FrontRight
+[2020.05.20-03.42.11:585][183]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.20-03.42.11:588][183]LogInit: FAudioDevice initialized.
+[2020.05.20-03.42.11:628][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-03.42.11:629][183]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.20-03.42.11:631][183]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.05.19-23.42.11
+[2020.05.20-03.42.11:631][183]LogWorld: Bringing up level for play took: 0.000967
+[2020.05.20-03.42.11:631][183]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.05.20-03.42.11:633][183]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.05.20-03.42.11:640][183]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 20 classes and 0 folders.
+[2020.05.20-03.42.11:644][183]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.577
+[2020.05.20-03.42.11:645][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.20-03.42.18:088][915]LogSlate: Window 'steam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.20-03.42.18:093][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.20-03.42.18:093][915]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2020.05.20-03.42.18:098][915]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.20-03.42.18:118][915]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.20-03.42.18:118][915]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-03.42.18:118][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-03.42.18:125][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.20-03.42.18:126][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.20-03.42.18:132][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-03.42.18:174][915]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.20-03.42.18:224][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.05.20-03.42.18:244][916]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.05.20-03.43.04:104][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.05.20-03.43.04:148][359]LogSlate: Window 'steam - Unreal Editor' being destroyed
+[2020.05.20-03.43.04:206][359]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-03.43.04:206][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-03.43.04:217][359]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-03.43.04:217][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-03.43.04:429][359]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-03.43.04:429][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-03.43.04:437][359]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-03.43.04:437][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-03.43.04:512][360]Cmd: QUIT_EDITOR
+[2020.05.20-03.43.04:512][360]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.20-03.43.04:525][360]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.20-03.43.04:525][360]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.20-03.43.05:095][360]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.20-03.43.05:108][360]LogExit: Preparing to exit.
+[2020.05.20-03.43.05:269][360]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-03.43.05:276][360]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-03.43.05:336][360]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.20-03.43.05:361][360]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-03.43.05:457][360]LogExit: Editor shut down
+[2020.05.20-03.43.05:458][360]LogExit: Transaction tracking system shut down
+[2020.05.20-03.43.05:831][360]LogExit: Object subsystem successfully closed.
+[2020.05.20-03.43.05:853][360]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.20-03.43.05:864][360]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (714)
+[2020.05.20-03.43.05:864][360]LogModuleManager: Shutting down and abandoning module Voice (712)
+[2020.05.20-03.43.05:864][360]LogModuleManager: Shutting down and abandoning module SequencerWidgets (710)
+[2020.05.20-03.43.05:864][360]LogModuleManager: Shutting down and abandoning module BlueprintGraph (708)
+[2020.05.20-03.43.05:865][360]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (706)
+[2020.05.20-03.43.05:865][360]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (704)
+[2020.05.20-03.43.05:865][360]LogModuleManager: Shutting down and abandoning module SceneOutliner (702)
+[2020.05.20-03.43.05:865][360]LogModuleManager: Shutting down and abandoning module AddContentDialog (700)
+[2020.05.20-03.43.05:868][360]LogModuleManager: Shutting down and abandoning module WidgetCarousel (699)
+[2020.05.20-03.43.05:868][360]LogModuleManager: Shutting down and abandoning module EditorWidgets (696)
+[2020.05.20-03.43.05:868][360]LogModuleManager: Shutting down and abandoning module CollectionManager (694)
+[2020.05.20-03.43.05:868][360]LogModuleManager: Shutting down and abandoning module StatsViewer (692)
+[2020.05.20-03.43.05:868][360]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (690)
+[2020.05.20-03.43.05:868][360]LogModuleManager: Shutting down and abandoning module FoliageEdit (688)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module LandscapeEditor (686)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module MeshPaintMode (684)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (682)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module ActorPickerMode (680)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module GeometryMode (678)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module TextureAlignMode (676)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module BspMode (674)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (672)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (670)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module AutomationWorker (668)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module SteamVREditor (666)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module OculusMR (664)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (662)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (660)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (658)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module PlacementMode (657)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module MaterialEditor (656)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (652)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (650)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (648)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (646)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (644)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module WebMMedia (642)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (640)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (638)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module SequenceRecorder (637)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (634)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (632)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (630)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (628)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (626)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (624)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (622)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (620)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (618)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (616)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module CharacterAI (614)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module SmartSnapping (612)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module SessionServices (610)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module MeshPaint (608)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module ViewportSnapping (606)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module ViewportInteraction (604)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module ClothPainter (602)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (601)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module LogVisualizer (598)
+[2020.05.20-03.43.05:869][360]LogModuleManager: Shutting down and abandoning module IntroTutorials (596)
+[2020.05.20-03.43.05:870][360]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (595)
+[2020.05.20-03.43.05:870][360]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (592)
+[2020.05.20-03.43.05:870][360]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (590)
+[2020.05.20-03.43.05:870][360]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (588)
+[2020.05.20-03.43.05:870][360]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (587)
+[2020.05.20-03.43.07:539][360]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (584)
+[2020.05.20-03.43.07:539][360]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (582)
+[2020.05.20-03.43.07:539][360]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (580)
+[2020.05.20-03.43.07:539][360]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (578)
+[2020.05.20-03.43.07:539][360]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (576)
+[2020.05.20-03.43.07:539][360]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (574)
+[2020.05.20-03.43.07:539][360]LogModuleManager: Shutting down and abandoning module InputBindingEditor (572)
+[2020.05.20-03.43.07:539][360]LogModuleManager: Shutting down and abandoning module MergeActors (570)
+[2020.05.20-03.43.07:539][360]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (568)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module LocalizationService (567)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module HardwareTargeting (564)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (562)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module UndoHistory (560)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module XmlParser (558)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module Blutility (556)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (554)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (553)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (550)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module SettingsEditor (548)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module ProjectLauncher (546)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module SessionFrontend (544)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module ProfilerClient (542)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module DeviceManager (540)
+[2020.05.20-03.43.07:540][360]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (539)
+[2020.05.20-03.43.07:571][360]LogModuleManager: Shutting down and abandoning module AutomationController (536)
+[2020.05.20-03.43.07:571][360]LogModuleManager: Shutting down and abandoning module AutomationWindow (534)
+[2020.05.20-03.43.07:571][360]LogModuleManager: Shutting down and abandoning module Layers (532)
+[2020.05.20-03.43.07:571][360]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (530)
+[2020.05.20-03.43.07:571][360]LogModuleManager: Shutting down and abandoning module DetailCustomizations (528)
+[2020.05.20-03.43.07:571][360]LogModuleManager: Shutting down and abandoning module PackagesDialog (526)
+[2020.05.20-03.43.07:571][360]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (524)
+[2020.05.20-03.43.07:571][360]LogModuleManager: Shutting down and abandoning module Persona (522)
+[2020.05.20-03.43.07:571][360]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (521)
+[2020.05.20-03.43.07:571][360]LogModuleManager: Shutting down and abandoning module AnimGraph (519)
+[2020.05.20-03.43.07:571][360]LogModuleManager: Shutting down and abandoning module Kismet (516)
+[2020.05.20-03.43.07:582][360]LogModuleManager: Shutting down and abandoning module KismetWidgets (515)
+[2020.05.20-03.43.07:582][360]LogModuleManager: Shutting down and abandoning module GraphEditor (512)
+[2020.05.20-03.43.07:582][360]LogModuleManager: Shutting down and abandoning module StructViewer (510)
+[2020.05.20-03.43.07:582][360]LogModuleManager: Shutting down and abandoning module ClassViewer (508)
+[2020.05.20-03.43.07:585][360]LogModuleManager: Shutting down and abandoning module Toolbox (506)
+[2020.05.20-03.43.07:585][360]LogModuleManager: Shutting down and abandoning module ModuleUI (504)
+[2020.05.20-03.43.07:585][360]LogModuleManager: Shutting down and abandoning module OutputLog (502)
+[2020.05.20-03.43.07:586][360]LogModuleManager: Shutting down and abandoning module GammaUI (500)
+[2020.05.20-03.43.07:586][360]LogModuleManager: Shutting down and abandoning module Documentation (498)
+[2020.05.20-03.43.07:587][360]LogModuleManager: Shutting down and abandoning module ToolMenus (496)
+[2020.05.20-03.43.07:587][360]LogModuleManager: Shutting down and abandoning module LiveCoding (494)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module LevelSequence (492)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (490)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module MovieScene (488)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (486)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module LauncherPlatform (484)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module AnalyticsET (482)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module PortalServices (480)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module PortalRpc (478)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module MessagingRpc (476)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (474)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module AIModule (472)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module GameplayDebugger (471)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module AITestSuite (469)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module NavigationSystem (467)
+[2020.05.20-03.43.07:588][360]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (464)
+[2020.05.20-03.43.07:591][360]LogModuleManager: Shutting down and abandoning module ProfilerService (462)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module TaskGraph (460)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module ScreenshotTools (458)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (456)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (454)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module OculusEditor (452)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module OculusInput (450)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (448)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module EditableMesh (446)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (444)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module CableComponent (442)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module AudioCapture (440)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (439)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module AssetTags (436)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (434)
+[2020.05.20-03.43.07:762][360]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (432)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module AppleImageUtils (430)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module AndroidPermission (428)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (426)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (424)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module MediaCompositing (422)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module ImgMedia (420)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (418)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (416)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (414)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (412)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (410)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module BackChannel (408)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (406)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module AutomationUtils (404)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module AlembicImporter (402)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module AlembicLibrary (401)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module GeometryCache (400)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (399)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (394)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (392)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (390)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module PluginBrowser (388)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (386)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (384)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module CurveEditorTools (382)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (380)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module CryptoKeys (378)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (376)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (374)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module UObjectPlugin (372)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (370)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (368)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (366)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module GitSourceControl (364)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module SourceControl (363)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (360)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (358)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (356)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (354)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (352)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (350)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (348)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module Paper2DEditor (346)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (344)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module AdvancedSessions (342)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module SignificanceManager (340)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (338)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (336)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (332)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
+[2020.05.20-03.43.07:763][360]LogModuleManager: Shutting down and abandoning module UdpMessaging (328)
+[2020.05.20-03.43.07:865][360]LogModuleManager: Shutting down and abandoning module TcpMessaging (326)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (324)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (322)
+[2020.05.20-03.43.07:965][360]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (320)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (318)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (316)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (314)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (312)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (310)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module MagicLeapController (308)
+[2020.05.20-03.43.07:965][360]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (306)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module MagicLeapAR (304)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module AugmentedReality (303)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (300)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (298)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module FacialAnimation (296)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module DataValidation (294)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (292)
+[2020.05.20-03.43.07:965][360]LogModuleManager: Shutting down and abandoning module LevelEditor (291)
+[2020.05.20-03.43.07:966][360]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (290)
+[2020.05.20-03.43.07:966][360]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (288)
+[2020.05.20-03.43.07:966][360]LogModuleManager: Shutting down and abandoning module MainFrame (286)
+[2020.05.20-03.43.07:967][360]LogModuleManager: Shutting down and abandoning module HotReload (285)
+[2020.05.20-03.43.07:967][360]LogModuleManager: Shutting down and abandoning module ContentBrowser (281)
+[2020.05.20-03.43.07:968][360]LogModuleManager: Shutting down and abandoning module TreeMap (279)
+[2020.05.20-03.43.07:968][360]LogModuleManager: Shutting down and abandoning module AnimationSharing (276)
+[2020.05.20-03.43.07:969][360]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (274)
+[2020.05.20-03.43.07:969][360]LogModuleManager: Shutting down and abandoning module Paper2D (272)
+[2020.05.20-03.43.07:969][360]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (270)
+[2020.05.20-03.43.07:970][360]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (268)
+[2020.05.20-03.43.07:970][360]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (266)
+[2020.05.20-03.43.07:970][360]LogModuleManager: Shutting down and abandoning module PacketHandler (264)
+[2020.05.20-03.43.07:970][360]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (262)
+[2020.05.20-03.43.07:970][360]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (260)
+[2020.05.20-03.43.07:970][360]LogModuleManager: Shutting down and abandoning module MediaAssets (258)
+[2020.05.20-03.43.07:970][360]LogModuleManager: Shutting down and abandoning module Overlay (256)
+[2020.05.20-03.43.07:970][360]LogModuleManager: Shutting down and abandoning module OverlayEditor (255)
+[2020.05.20-03.43.07:970][360]LogModuleManager: Shutting down and abandoning module VREditor (252)
+[2020.05.20-03.43.07:970][360]LogModuleManager: Shutting down and abandoning module StringTableEditor (250)
+[2020.05.20-03.43.07:970][360]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (248)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (246)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module FunctionalTesting (244)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (242)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (241)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module UMG (238)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module UMGEditor (237)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module MessageLog (235)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module SlateReflector (230)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module Slate (228)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module SlateCore (226)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (224)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module UnrealEd (222)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module MRMesh (220)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (218)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (216)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module XAudio2 (214)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module Networking (212)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module Core (210)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module MovieSceneTools (208)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module CurveEditor (207)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module Sequencer (205)
+[2020.05.20-03.43.07:971][360]LogModuleManager: Shutting down and abandoning module EditorStyle (204)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module KismetCompiler (200)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module MeshUtilities (198)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (197)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (196)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (195)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (193)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (191)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (189)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module MaterialBaking (185)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (180)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module DerivedDataCache (178)
+[2020.05.20-03.43.07:973][360]LogDerivedDataCache: Shutdown
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module XGEController (176)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module TargetPlatform (174)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (173)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (171)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (169)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (167)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (165)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (163)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (161)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (159)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (157)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (155)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module ImageWrapper (154)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (151)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (149)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (147)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (145)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (143)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (141)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (139)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (137)
+[2020.05.20-03.43.07:973][360]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (135)
+[2020.05.20-03.43.07:978][360]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (133)
+[2020.05.20-03.43.07:982][360]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (131)
+[2020.05.20-03.43.07:982][360]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (129)
+[2020.05.20-03.43.07:982][360]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (127)
+[2020.05.20-03.43.07:982][360]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.05.20-03.43.07:982][360]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (123)
+[2020.05.20-03.43.07:982][360]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2020.05.20-03.43.07:982][360]LogModuleManager: Shutting down and abandoning module Messaging (119)
+[2020.05.20-03.43.07:982][360]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (117)
+[2020.05.20-03.43.07:985][360]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (115)
+[2020.05.20-03.43.08:009][360]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (113)
+[2020.05.20-03.43.08:009][360]LogModuleManager: Shutting down and abandoning module InputCore (110)
+[2020.05.20-03.43.08:009][360]LogModuleManager: Shutting down and abandoning module Settings (108)
+[2020.05.20-03.43.08:009][360]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (106)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module PhysXCooking (104)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module ChaosSolvers (102)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (101)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module Chaos (98)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (96)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (95)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.05.20-03.43.08:010][360]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.05.20-03.43.08:010][360]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.05.20-03.43.08:011][360]LogModuleManager: Shutting down and abandoning module SteamShared (70)
+[2020.05.20-03.43.08:011][360]LogSteamShared: Freeing the Steam Loaded Modules...
+[2020.05.20-03.43.08:011][360]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.05.20-03.43.08:011][360]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.05.20-03.43.08:025][360]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.05.20-03.43.08:025][360]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.05.20-03.43.08:025][360]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B095D21D7-4C43-D350-3CF4-2C949D4D8E61%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=e12f05e8444194cb51e4f8bf51ba8f55%7Cacb460f62f8147feb479a38cf59dacad%7Cc0a59829-1b3c-419e-bcaa-9e6236633f64&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.20-03.43.08:025][360]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B095D21D7-4C43-D350-3CF4-2C949D4D8E61%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=e12f05e8444194cb51e4f8bf51ba8f55%7Cacb460f62f8147feb479a38cf59dacad%7Cc0a59829-1b3c-419e-bcaa-9e6236633f64&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.20-03.43.08:033][360]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.05.20-03.43.08:035][360]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.05.20-03.43.08:037][360]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.05.20-03.43.08:037][360]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.05.20-03.43.08:037][360]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.05.20-03.43.08:037][360]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.05.20-03.43.08:037][360]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.05.20-03.43.08:037][360]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.05.20-03.43.08:037][360]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.20-03.43.08:037][360]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.20-03.43.08:037][360]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.20-03.43.08:037][360]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.20-03.43.08:037][360]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.20-03.43.08:039][360]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.20-03.43.08:039][360]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.20-03.43.08:039][360]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.20-03.43.08:039][360]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.20-03.43.08:039][360]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.20-03.43.08:041][360]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.20-03.43.08:046][360]LogD3D11RHI: Shutdown
+[2020.05.20-03.43.08:046][360]LogD3D11RHI: CleanupD3DDevice
+[2020.05.20-03.43.08:060][360]LogExit: Exiting.
+[2020.05.20-03.43.08:081][360]Log file closed, 05/19/20 23:43:08
